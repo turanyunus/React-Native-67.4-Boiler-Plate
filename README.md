@@ -29,3 +29,4 @@
 - Components added(Input, Button, Modal, Picker, SplashScreen vs). All components are dynamically typed. (with formik)
 - themes added( common colors  and size are managed here).
 - All services added and codes written for Search pages.
+- react-native-vector-icons added.
