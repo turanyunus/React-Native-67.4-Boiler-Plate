@@ -1,4 +1,5 @@
-# RN-0.67.4-Boiler-Plate
+# React-Native-67.4-Boiler-Plate
+
 
 [tr]
 - formik ve yup eklendi.
